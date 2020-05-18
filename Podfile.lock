@@ -1,0 +1,32 @@
+PODS:
+  - Highlighter (1.4.0)
+  - IGColorPicker (0.4.3):
+    - M13Checkbox
+  - M13Checkbox (3.4.0)
+  - SearchTextField (1.2.4)
+  - TagListView (1.4.0)
+
+DEPENDENCIES:
+  - Highlighter
+  - IGColorPicker
+  - SearchTextField
+  - TagListView
+
+SPEC REPOS:
+  trunk:
+    - Highlighter
+    - IGColorPicker
+    - M13Checkbox
+    - SearchTextField
+    - TagListView
+
+SPEC CHECKSUMS:
+  Highlighter: 42eb22960be4d3358c42122b3768ac77b9ae0967
+  IGColorPicker: f6034f8629aa90cce308a76ecc0fdf2afed0bf34
+  M13Checkbox: 6f59404540ac98ba83a3d1afac335895a40c6a5d
+  SearchTextField: 40dc3cc57def5a211f263cac263622c163bbc25a
+  TagListView: 987b0bdbb16cd9d9e7c0e2ec32aff37ecba8b173
+
+PODFILE CHECKSUM: 95b1bfdd9afc42ba8c0da3fba632384b2309f9ea
+
+COCOAPODS: 1.9.1
