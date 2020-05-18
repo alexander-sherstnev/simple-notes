@@ -2,11 +2,11 @@
 
 Simple Notes - academic application which realized simple notes mobile application (iOS) for BSUIR university
 
-# Requirements
+### Requirements
 - XCode
 - CocoaPods
 
-# Installation & Build
+### Installation & Build
 ```
 pod install
 open .xcworkspace
